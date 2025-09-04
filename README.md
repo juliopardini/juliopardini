@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Julio Pardini Susacasa
 
-**Data Scientist | Civil Engineer | Renewable Energy Enthusiast**
+**Data Scientist | Python, ML & MLOps | Civil Eng + AI**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-pardini)  
 ![Profile Views](https://komarev.com/ghpvc/?username=juliopardini&label=Profile%20views&color=0e75b6&style=flat)
