@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Julio Pardini Susacasa
+# 👋 Julio Pardini Susacasa
 
 **Data Scientist | Python, ML & MLOps | Civil Eng + AI**
 
